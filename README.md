@@ -2,7 +2,7 @@
 
 In here you can find more about my studies.
 
-- [Academic]()
+- [Academic](https://github.com/francislopes/education/blob/main/README.md#academic)
 - [Courses]()
 
 
