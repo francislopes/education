@@ -2,7 +2,7 @@
 
 In here you can find more about my studies.
 
-- [Academic](### Academic)
+- [Academic]()
 - [Courses]()
 
 
@@ -16,4 +16,11 @@ Master of Business Administration (MBA) - Project Management. Fundação Getulio
 Bachelor of Engineering (Mechanical). Universidade Federal do Rio Grande do Sul / [UFRGS](http://www.ufrgs.br/ufrgs/inicial). 2005 - 2010
 
 
+### Courses
+---
 
+**Java**
+Java Exceptions: Learn to create, throw and control exceptions. [Alura](https://www.alura.com.br) - 12h
+Java JRE and JDK: Write your first code with Eclipse. [Alura](https://www.alura.com.br) - 8h
+Java OO: Introduction to Object Orientation. [Alura](https://www.alura.com.br) - 8h
+Java Polymorphism: Understand inheritance and interfaces. [Alura](https://www.alura.com.br) - 8h
