@@ -32,7 +32,7 @@ Java OO: Introduction to Object Orientation. [Alura](https://www.alura.com.br) -
 Java Polymorphism: Understand inheritance and interfaces. [Alura](https://www.alura.com.br) - 8h
 
 
-### Courses
+### Languages
 ---
 
 Portuguese: Native proficiency
