@@ -3,7 +3,9 @@
 In here you can find more about my studies.
 
 - [Academic](https://github.com/francislopes/education/blob/main/README.md#academic)
-- [Courses](https://github.com/francislopes/education/blob/main/README.md#courses)
+- [Short coruses](https://github.com/francislopes/education/blob/main/README.md#shortcourses)
+- [Languages](https://github.com/francislopes/education/blob/main/README.md#languages)
+
 
 
 ### Academic
@@ -28,3 +30,17 @@ Java JRE and JDK: Write your first code with Eclipse. [Alura](https://www.alura.
 Java OO: Introduction to Object Orientation. [Alura](https://www.alura.com.br) - 8h
 
 Java Polymorphism: Understand inheritance and interfaces. [Alura](https://www.alura.com.br) - 8h
+
+
+### Courses
+---
+
+Portuguese: Native proficiency
+
+English: Full professional proficiency
+
+Spanish: Professional working proficiency
+
+Italian: Limited working proficiency
+
+German: Elementary profissiency
