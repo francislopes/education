@@ -20,6 +20,7 @@ Bachelor of Engineering (Mechanical). Universidade Federal do Rio Grande do Sul 
 ---
 
 **Java**
+
 Java Exceptions: Learn to create, throw and control exceptions. [Alura](https://www.alura.com.br) - 12h
 
 Java JRE and JDK: Write your first code with Eclipse. [Alura](https://www.alura.com.br) - 8h
