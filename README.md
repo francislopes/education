@@ -3,7 +3,7 @@
 In here you can find more about my studies.
 
 - [Academic](https://github.com/francislopes/education/blob/main/README.md#academic)
-- [Short coruses](https://github.com/francislopes/education/blob/main/README.md#shortcourses)
+- [Short coruses](https://github.com/francislopes/education/blob/main/README.md#courses)
 - [Languages](https://github.com/francislopes/education/blob/main/README.md#languages)
 
 
