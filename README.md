@@ -31,6 +31,24 @@ Java OO: Introduction to Object Orientation. [Alura](https://www.alura.com.br) -
 
 Java Polymorphism: Understand inheritance and interfaces. [Alura](https://www.alura.com.br) - 8h
 
+Java Servlet: Basics of Java web programming. [Alura](https://www.alura.com.br) - 10h
+
+
+**Spring**
+
+Spring Data JPA: Repositories, Queries, Projections and Specifications. [Alura](https://www.alura.com.br) - 10h
+
+Spring MVC: Create a web app with Thymeleaf and Bootstrap. [Alura](https://www.alura.com.br) - 12h
+
+
+**Ongoing**
+
+Spring MVC: Authentication with Spring Security, Rest API and AJAX. [Alura](https://www.alura.com.br) - 10h
+
+Spring Boot API REST: Build an API. [Alura](https://www.alura.com.br) - 8h
+
+
+
 
 ### Languages
 ---
