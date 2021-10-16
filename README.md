@@ -3,7 +3,7 @@
 In here you can find more about my studies.
 
 - [Academic](https://github.com/francislopes/education/blob/main/README.md#academic)
-- [Short coruses](https://github.com/francislopes/education/blob/main/README.md#courses)
+- [Short courses](https://github.com/francislopes/education/blob/main/README.md#courses)
 - [Languages](https://github.com/francislopes/education/blob/main/README.md#languages)
 
 
@@ -40,10 +40,10 @@ Spring Data JPA: Repositories, Queries, Projections and Specifications. [Alura](
 
 Spring MVC: Create a web app with Thymeleaf and Bootstrap. [Alura](https://www.alura.com.br) - 12h
 
+Spring MVC: Authentication with Spring Security, Rest API and AJAX. [Alura](https://www.alura.com.br) - 10h
+
 
 **Ongoing**
-
-Spring MVC: Authentication with Spring Security, Rest API and AJAX. [Alura](https://www.alura.com.br) - 10h
 
 Spring Boot API REST: Build an API. [Alura](https://www.alura.com.br) - 8h
 
