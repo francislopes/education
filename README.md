@@ -42,11 +42,12 @@ Spring MVC: Create a web app with Thymeleaf and Bootstrap. [Alura](https://www.a
 
 Spring MVC: Authentication with Spring Security, Rest API and AJAX. [Alura](https://www.alura.com.br) - 10h
 
+Spring Boot API REST: Build an API. [Alura](https://www.alura.com.br) - 8h
+
 
 **Ongoing**
 
-Spring Boot API REST: Build an API. [Alura](https://www.alura.com.br) - 8h
-
+Spring Boot API Rest: API Security, Caching and Monitoring. [Alura](https://www.alura.com.br) - 12h
 
 
 
