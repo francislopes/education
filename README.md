@@ -53,6 +53,8 @@ Swagger: Documenting your APIs. [Alura](https://www.alura.com.br) - 8h
 
 Maven: Java Application Build and Dependency Management. [Alura](https://www.alura.com.br) - 8h
 
+JPA Persistence: Introduction to Hibernate. [Alura](https://www.alura.com.br) - 8h
+
 
 **Ongoing**
 
