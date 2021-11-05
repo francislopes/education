@@ -46,6 +46,8 @@ Spring Boot API REST: Build an API. [Alura](https://www.alura.com.br) - 8h
 
 Spring Boot API Rest: API Security, Caching and Monitoring. [Alura](https://www.alura.com.br) - 12h
 
+Spring Boot and Test: Profiles, Tests and Deploy. [Alura](https://www.alura.com.br) - 8h
+
 
 **Others**
 
@@ -54,11 +56,6 @@ Swagger: Documenting your APIs. [Alura](https://www.alura.com.br) - 8h
 Maven: Java Application Build and Dependency Management. [Alura](https://www.alura.com.br) - 8h
 
 JPA Persistence: Introduction to Hibernate. [Alura](https://www.alura.com.br) - 8h
-
-
-**Ongoing**
-
-Spring Boot and Test: Profiles, Tests and Deploy. [Alura](https://www.alura.com.br) - 8h
 
 
 
