@@ -18,7 +18,7 @@ Master of Business Administration (MBA) - Project Management. Fundação Getulio
 Bachelor of Engineering (Mechanical). Universidade Federal do Rio Grande do Sul / [UFRGS](http://www.ufrgs.br/ufrgs/inicial). 2005 - 2010
 
 
-### Courses
+### Courses 
 ---
 
 **Java**
@@ -56,6 +56,8 @@ Swagger: Documenting your APIs. [Alura](https://www.alura.com.br) - 8h
 Maven: Java Application Build and Dependency Management. [Alura](https://www.alura.com.br) - 8h
 
 JPA Persistence: Introduction to Hibernate. [Alura](https://www.alura.com.br) - 8h
+
+Agile Fundamentals: Your First Steps to Agile Transformation. [Alura](https://www.alura.com.br) - 6h
 
 
 
