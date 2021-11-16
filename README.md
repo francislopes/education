@@ -59,6 +59,8 @@ JPA Persistence: Introduction to Hibernate. [Alura](https://www.alura.com.br) - 
 
 Agile Fundamentals: Your First Steps to Agile Transformation. [Alura](https://www.alura.com.br) - 6h
 
+Scrum: Agility in your project. [Alura](https://www.alura.com.br) - 10h
+
 Logic Programming I: The First Javascript and HTML Programs. [Alura](https://www.alura.com.br) - 16h
 
 
