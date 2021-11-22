@@ -63,6 +63,8 @@ Scrum: Agility in your project. [Alura](https://www.alura.com.br) - 10h
 
 Logic Programming I: The First Javascript and HTML Programs. [Alura](https://www.alura.com.br) - 16h
 
+Git and Github: Control and share your code. [Alura](https://www.alura.com.br) - 6h
+
 
 
 
