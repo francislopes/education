@@ -33,6 +33,8 @@ Java Polymorphism: Understand inheritance and interfaces. [Alura](https://www.al
 
 Java Servlet: Basics of Java web programming. [Alura](https://www.alura.com.br) - 10h
 
+Java and java.lang: Programming with the Object and the String classes. [Alura](https://www.alura.com.br) - 12h
+
 
 **Spring**
 
