@@ -51,6 +51,15 @@ Spring Boot API Rest: API Security, Caching and Monitoring. [Alura](https://www.
 Spring Boot and Test: Profiles, Tests and Deploy. [Alura](https://www.alura.com.br) - 8h
 
 
+**Agile**
+
+Agile Fundamentals: Your First Steps to Agile Transformation. [Alura](https://www.alura.com.br) - 6h
+
+Scrum: Agility in your project. [Alura](https://www.alura.com.br) - 10h
+
+Scrum part 1: Manage your project in an agile way. [Alura](https://www.alura.com.br) - 5h
+
+
 **Others**
 
 Swagger: Documenting your APIs. [Alura](https://www.alura.com.br) - 8h
@@ -58,10 +67,6 @@ Swagger: Documenting your APIs. [Alura](https://www.alura.com.br) - 8h
 Maven: Java Application Build and Dependency Management. [Alura](https://www.alura.com.br) - 8h
 
 JPA Persistence: Introduction to Hibernate. [Alura](https://www.alura.com.br) - 8h
-
-Agile Fundamentals: Your First Steps to Agile Transformation. [Alura](https://www.alura.com.br) - 6h
-
-Scrum: Agility in your project. [Alura](https://www.alura.com.br) - 10h
 
 Logic Programming I: The First Javascript and HTML Programs. [Alura](https://www.alura.com.br) - 16h
 
