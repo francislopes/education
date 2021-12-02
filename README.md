@@ -59,6 +59,8 @@ Scrum: Agility in your project. [Alura](https://www.alura.com.br) - 10h
 
 Scrum part 1: Manage your project in an agile way. [Alura](https://www.alura.com.br) - 5h
 
+Scrum Part 2: The Agile Manifesto, Leadership and Organization in Scrum. [Alura](https://www.alura.com.br) - 5h
+
 
 **Others**
 
