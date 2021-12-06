@@ -61,6 +61,8 @@ Scrum part 1: Manage your project in an agile way. [Alura](https://www.alura.com
 
 Scrum Part 2: The Agile Manifesto, Leadership and Organization in Scrum. [Alura](https://www.alura.com.br) - 5h
 
+Kanban part 1: Essential Fundamentals. [Alura](https://www.alura.com.br) - 6h
+
 
 **Others**
 
