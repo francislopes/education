@@ -35,6 +35,8 @@ Java Servlet: Basics of Java web programming. [Alura](https://www.alura.com.br) 
 
 Java and java.lang: Programming with the Object and the String classes. [Alura](https://www.alura.com.br) - 12h
 
+Java and java.util: Collections, Wrappers and Lambda expressions. [Alura](https://www.alura.com.br) - 12h
+
 
 **Spring**
 
