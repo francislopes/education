@@ -78,6 +78,8 @@ Logic Programming I: The First Javascript and HTML Programs. [Alura](https://www
 
 Git and Github: Control and share your code. [Alura](https://www.alura.com.br) - 6h
 
+TDD and Java: Automated Testing with JUnit. [Alura](https://www.alura.com.br) - 8h
+
 
 
 
