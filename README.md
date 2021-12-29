@@ -37,6 +37,8 @@ Java and java.lang: Programming with the Object and the String classes. [Alura](
 
 Java and java.util: Collections, Wrappers and Lambda expressions. [Alura](https://www.alura.com.br) - 12h
 
+Java and java.io: Streams, Reader and Writers. [Alura](https://www.alura.com.br) - 12h
+
 
 **Spring**
 
@@ -79,7 +81,6 @@ Logic Programming I: The First Javascript and HTML Programs. [Alura](https://www
 Git and Github: Control and share your code. [Alura](https://www.alura.com.br) - 6h
 
 TDD and Java: Automated Testing with JUnit. [Alura](https://www.alura.com.br) - 8h
-
 
 
 
