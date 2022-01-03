@@ -39,6 +39,8 @@ Java and java.util: Collections, Wrappers and Lambda expressions. [Alura](https:
 
 Java and java.io: Streams, Reader and Writers. [Alura](https://www.alura.com.br) - 12h
 
+Java Collections: Mastering Lists, Sets and Maps. [Alura](https://www.alura.com.br) - 20h
+
 
 **Spring**
 
