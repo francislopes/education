@@ -41,6 +41,8 @@ Java and java.io: Streams, Reader and Writers. [Alura](https://www.alura.com.br)
 
 Java Collections: Mastering Lists, Sets and Maps. [Alura](https://www.alura.com.br) - 20h
 
+Modern Java: Take advantage of new features in Java 8. [Alura](https://www.alura.com.br) - 12h
+
 
 **Spring**
 
