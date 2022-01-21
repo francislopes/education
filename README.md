@@ -45,6 +45,8 @@ Java Collections: Mastering Lists, Sets and Maps. [Alura](https://www.alura.com.
 
 Modern Java: Take advantage of new features in Java 8. [Alura](https://www.alura.com.br) - 12h
 
+Java and JDBC: Working with a Database. [Alura](https://www.alura.com.br) - 12h
+
 
 **Spring**
 
