@@ -76,6 +76,11 @@ Scrum Part 2: The Agile Manifesto, Leadership and Organization in Scrum. [Alura]
 Kanban part 1: Essential Fundamentals. [Alura](https://www.alura.com.br) - 6h
 
 
+**Postgre**
+
+PostgreSQL: Getting Started with SQL. [Alura](https://www.alura.com.br) - 8h
+
+
 **Others**
 
 Swagger: Documenting your APIs. [Alura](https://www.alura.com.br) - 8h
