@@ -47,6 +47,8 @@ Modern Java: Take advantage of new features in Java 8. [Alura](https://www.alura
 
 Java and JDBC: Working with a Database. [Alura](https://www.alura.com.br) - 12h
 
+Java and JPA: advanced queries, performance and complex models. [Alura](https://www.alura.com.br) - 10h
+
 
 **Spring**
 
