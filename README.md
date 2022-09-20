@@ -99,6 +99,8 @@ TDD and Java: Automated Testing with JUnit. [Alura](https://www.alura.com.br) - 
 
 HTTP: Understanding the Web Behind the Scenes. [Alura](https://www.alura.com.br) - 14h
 
+Kubernetes: Pods, Services and ConfigMaps. [Alura](https://www.alura.com.br) - 8h
+
 
 
 
